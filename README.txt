@@ -1,0 +1,7 @@
+# MBAI5310G AI Programming
+Student Name: Jin Chan
+Course: MBAI 5310G - AI Programming
+Hi It's me Jin Chan~
+This repository contains my weekly coding assignments and final AI programming project for MBAI 5310G.
+The repository will include Jupyter/Colab notebooks, code, outputs, README files, and documentation for
+reproducibility.
