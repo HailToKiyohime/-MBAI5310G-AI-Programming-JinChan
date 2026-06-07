@@ -1,0 +1,263 @@
+﻿Trial_ID,Trial_Start_Date,Industry,Region,Lead_Source,Plan_Type,Company_Size,Trial_Length_Days,Login_Count_14_Days,Features_Used,Team_Invites,Pricing_Pages_Viewed,Email_Clicks,Webinar_Attended,Support_Tickets,Discount_Offered_Percent,Competitor_Mentioned,Trial_Completion_Percent,Product_Fit_Score,Estimated_Annual_Value,Converted_To_Paid
+TRIAL-10001,2026-04-06,Technology,Alberta,Organic Search,Enterprise,1-10,30,16,6,0,49,6,1,0,0,0,70,5.6,"$4,962",1
+TRIAL-10002,2026-01-30,Technology,British Columbia,Paid Ads,Professional,1-10,14,13,5,2,36,4,0,0,10,1,82,5.4,"$5,173",0
+TRIAL-10003,2026-03-04,Education,Quebec,Paid Ads,Enterprise,500+,21,15,8,6,43,5,0,2,10,0,100,8.8,"$27,163",1
+TRIAL-10004,2026-01-15,Healthcare,Europe,Paid Ads,Professional,11-50,14,11,6,3,28,5,0,2,0,1,93,8.9,"$8,237",0
+TRIAL-10005,2026-01-05,Education,British Columbia,Partner,Enterprise,51-200,30,20,8,5,52,5,0,1,15,0,100,5.7,"$15,070",1
+TRIAL-10006,2026-04-05,Healthcare,British Columbia,Partner,Professional,1-10,30,16,6,1,25,2,0,0,20,0,100,6.5,"$7,406",1
+TRIAL-10007,2026-01-11,Healthcare,Ontario,Partner,Professional,201-500,14,19,6,4,63,3,0,2,0,0,100,6.5,"$5,325",1
+TRIAL-10008,2026-03-20,Retail,Alberta,Referral,Professional,51-200,21,7,3,6,30,0,0,1,20,0,70,10.0,"$7,869",0
+TRIAL-10009,2026-01-13,Finance,Ontario,LinkedIn,Professional,11-50,30,8,3,5,25,3,1,1,15,0,75,7.3,"$4,005",1
+TRIAL-10010,2026-02-02,Finance,United States,LinkedIn,Enterprise,1-10,14,15,6,3,35,3,0,0,10,0,78,3.4,"$11,770",0
+TRIAL-10011,2026-01-22,Education,United States,Referral,Enterprise,11-50,14,12,3,4,42,3,1,0,0,1,100,9.7,"$25,806",1
+TRIAL-10012,2026-02-15,Professional Services,British Columbia,LinkedIn,Starter,11-50,21,13,4,4,32,6,0,1,20,0,68,3.3,"$1,587",1
+TRIAL-10013,2026-01-24,Finance,Ontario,Referral,Professional,11-50,21,9,4,0,40,4,0,1,0,0,44,,"$4,667",0
+TRIAL-10014,2026-02-08,Finance,United States,Paid Ads,Starter,51-200,30,0,3,0,12,0,0,2,20,1,58,1.3,"$1,260",0
+TRIAL-10015,2026-01-22,Education,Ontario,LinkedIn,Professional,1-10,21,6,5,1,21,3,1,1,10,0,61,5.3,"$4,840",0
+TRIAL-10016,2026-04-10,Retail,United States,Referral,Starter,201-500,21,13,4,8,21,1,0,2,0,0,98,4.6,"$1,083",0
+TRIAL-10017,2026-03-06,Retail,Ontario,Webinar,Starter,201-500,30,3,0,6,8,5,1,0,15,1,10,3.9,"$1,675",0
+TRIAL-10018,2026-03-23,Finance,United States,LinkedIn,Starter,51-200,30,18,9,3,24,2,0,0,0,1,100,5.3,"$1,205",1
+TRIAL-10019,2026-01-21,Education,British Columbia,Referral,Professional,11-50,21,9,2,3,20,8,0,0,15,1,70,3.5,"$4,779",0
+TRIAL-10020,2026-01-20,Healthcare,United States,LinkedIn,Starter,201-500,14,8,4,4,48,1,0,0,20,0,93,6.7,"$1,118",1
+TRIAL-10021,2026-03-11,Manufacturing,Quebec,LinkedIn,Professional,11-50,30,6,2,0,33,1,1,0,15,0,42,4.1,"$5,921",0
+TRIAL-10022,2026-02-22,Finance,United States,Partner,Professional,1-10,21,9,6,0,15,2,0,0,15,0,100,5.2,"$3,947",1
+TRIAL-10023,2026-02-15,Technology,Ontario,LinkedIn,Starter,1-10,21,10,8,0,26,3,0,0,20,0,100,5.0,$821,1
+TRIAL-10024,2026-02-09,Professional Services,Alberta,Organic Search,Starter,11-50,21,15,9,0,46,5,0,0,0,0,78,6.6,"$1,150",0
+TRIAL-10025,2026-05-08,Education,Quebec,Organic Search,Starter,201-500,30,8,4,2,13,1,0,2,0,0,73,3.3,$935,0
+TRIAL-10026,2026-02-15,Retail,Quebec,Organic Search,Starter,201-500,14,10,1,9,13,1,0,1,20,0,30,8.0,"$1,212",0
+TRIAL-10027,2026-02-20,Professional Services,British Columbia,Paid Ads,Starter,11-50,30,9,2,2,26,5,0,0,20,0,69,7.4,"$1,132",0
+TRIAL-10028,2026-01-31,Retail,Quebec,Referral,Starter,500+,21,15,5,6,31,3,0,0,15,0,95,3.6,"$1,732",1
+TRIAL-10029,2026-03-09,Education,United States,Partner,Professional,51-200,30,16,6,3,24,3,0,3,5,0,100,4.8,"$5,463",1
+TRIAL-10030,2026-01-21,Retail,Ontario,Organic Search,Starter,51-200,14,15,5,1,43,2,0,2,5,0,71,6.0,"$1,326",0
+TRIAL-10031,2026-04-11,Professional Services,British Columbia,Referral,Enterprise,500+,30,17,8,5,43,0,0,2,5,0,100,5.2,"$14,832",1
+TRIAL-10032,2026-05-03,Technology,Ontario,Webinar,Professional,11-50,21,11,7,4,14,5,1,4,20,0,80,5.2,"$3,360",0
+TRIAL-10033,2026-01-06,Professional Services,United States,Referral,Professional,11-50,21,13,4,3,33,7,0,1,20,0,83,6.7,"$2,145",1
+TRIAL-10034,2026-02-26,Retail,Ontario,Referral,Starter,11-50,21,2,0,,4,0,0,3,5,1,55,4.4,"$1,147",0
+TRIAL-10035,2026-03-14,Education,Alberta,Partner,Starter,51-200,14,11,3,4,11,3,0,2,0,0,38,4.3,$617,0
+TRIAL-10036,2026-03-21,Healthcare,Quebec,Partner,Enterprise,1-10,14,11,6,3,6,2,0,0,5,0,94,9.2,"$14,969",1
+TRIAL-10037,2026-05-10,Professional Services,United States,Paid Ads,Enterprise,201-500,30,18,5,5,28,4,0,0,20,0,94,7.8,"$24,622",1
+TRIAL-10038,2026-03-09,Technology,Ontario,LinkedIn,Enterprise,11-50,14,17,7,0,25,4,0,2,20,0,100,6.3,"$16,478",0
+TRIAL-10039,2026-04-01,Technology,Ontario,LinkedIn,Enterprise,51-200,30,14,5,2,37,6,0,3,5,1,78,5.1,"$10,334",0
+TRIAL-10040,2026-02-06,Education,British Columbia,Referral,Starter,51-200,21,11,5,4,26,3,1,1,10,1,62,5.1,"$1,219",0
+TRIAL-10041,2026-03-24,Finance,Quebec,Webinar,Starter,51-200,21,5,3,0,26,3,1,0,10,0,71,6.5,$630,0
+TRIAL-10042,2026-02-24,Education,Alberta,Referral,Starter,1-10,21,7,4,1,26,5,0,1,5,0,55,8.2,"$1,290",0
+TRIAL-10043,2026-03-24,Healthcare,Europe,Paid Ads,Professional,51-200,21,7,1,,26,3,0,0,15,1,71,1.6,"$4,621",0
+TRIAL-10044,2026-04-11,Finance,United States,Organic Search,Starter,201-500,21,8,8,4,18,0,1,0,20,0,54,10.0,"$1,024",1
+TRIAL-10045,2026-04-24,Professional Services,United States,LinkedIn,Enterprise,51-200,14,4,6,4,26,0,0,2,0,0,80,7.6,"$4,429",0
+TRIAL-10046,2026-04-09,Professional Services,Alberta,Webinar,Starter,11-50,21,15,5,0,17,4,1,1,5,0,83,8.7,"$1,390",1
+TRIAL-10047,2026-01-19,Retail,United States,Partner,Professional,500+,30,18,5,7,40,5,1,1,0,0,97,9.6,"$4,886",1
+TRIAL-10048,2026-05-11,Professional Services,British Columbia,Paid Ads,Starter,1-10,14,4,4,0,9,0,0,1,0,0,34,5.5,"$1,608",0
+TRIAL-10049,2026-02-26,Retail,Ontario,Paid Ads,Starter,11-50,21,14,6,1,38,3,0,2,15,0,78,6.1,"$1,921",0
+TRIAL-10050,2026-01-21,Finance,Europe,Paid Ads,Professional,11-50,30,11,4,1,33,0,0,2,15,0,21,8.2,"$8,285",1
+TRIAL-10051,2026-03-24,Education,,LinkedIn,Starter,11-50,21,7,3,1,20,6,0,3,20,0,42,4.7,$746,0
+TRIAL-10052,2026-04-10,Technology,Quebec,LinkedIn,Starter,1-10,21,9,3,0,30,5,1,2,5,0,100,6.8,"$1,121",0
+TRIAL-10053,2026-01-02,Retail,British Columbia,Referral,Starter,201-500,21,14,3,6,43,0,0,3,15,0,89,5.0,"$1,384",0
+TRIAL-10054,2026-01-03,Professional Services,Quebec,Webinar,Starter,1-10,30,7,0,4,23,0,1,1,0,0,53,6.0,"$1,354",1
+TRIAL-10055,2026-01-08,Retail,Alberta,LinkedIn,Enterprise,11-50,21,11,6,1,24,0,0,3,0,0,71,6.7,"$16,649",0
+TRIAL-10056,2026-04-29,Professional Services,United States,Referral,Starter,51-200,21,11,4,4,31,2,0,1,5,0,100,7.6,"$1,209",0
+TRIAL-10057,2026-04-24,Education,United States,Partner,Professional,11-50,21,13,7,4,33,1,0,2,20,0,100,4.0,"$5,637",1
+TRIAL-10058,2026-01-23,Manufacturing,British Columbia,Referral,Professional,11-50,30,12,3,1,24,1,1,1,20,0,85,7.8,"$2,084",1
+TRIAL-10059,2026-04-18,Finance,British Columbia,Referral,Starter,201-500,21,8,7,3,33,3,0,3,5,0,100,8.0,"$1,764",1
+TRIAL-10060,2026-01-13,Finance,United States,Organic Search,Starter,1-10,21,3,1,1,12,0,0,0,20,0,3,5.3,"$1,626",0
+TRIAL-10061,2026-03-18,Manufacturing,British Columbia,LinkedIn,Professional,201-500,30,23,6,6,56,2,1,4,5,0,78,9.2,"$5,082",1
+TRIAL-10062,2026-04-01,Manufacturing,United States,Paid Ads,Starter,1-10,30,2,2,0,15,0,0,0,20,0,44,6.8,$878,0
+TRIAL-10063,2026-01-04,Manufacturing,United States,Webinar,Professional,51-200,21,9,8,3,29,1,1,1,20,0,79,9.5,"$6,153",1
+TRIAL-10064,2026-03-29,Professional Services,Quebec,Referral,Professional,11-50,21,10,6,1,1,4,0,2,0,0,100,2.4,"$4,348",0
+TRIAL-10065,2026-02-06,Healthcare,Alberta,Webinar,Professional,11-50,14,12,5,1,21,6,1,1,10,1,92,3.2,"$5,202",1
+TRIAL-10066,2026-01-12,Professional Services,British Columbia,Organic Search,Starter,500+,21,5,6,4,22,4,0,2,0,0,54,4.2,$935,0
+TRIAL-10067,2026-04-14,Finance,British Columbia,Organic Search,Enterprise,11-50,14,9,6,2,22,2,0,2,0,0,100,8.4,"$11,427",1
+TRIAL-10068,2026-04-15,Manufacturing,Alberta,Organic Search,Starter,51-200,21,14,7,2,27,3,1,0,20,0,100,7.3,$853,1
+TRIAL-10069,2026-01-28,Technology,Alberta,Webinar,Professional,51-200,14,16,3,1,40,3,1,1,0,0,100,4.3,"$5,469",0
+TRIAL-10070,2026-01-10,Education,Quebec,LinkedIn,Professional,201-500,30,9,3,7,3,5,0,2,10,0,72,7.9,"$9,420",0
+TRIAL-10071,2026-02-01,Professional Services,Alberta,Referral,Professional,11-50,21,13,8,0,29,3,1,0,15,0,81,10.0,"$4,763",1
+TRIAL-10072,2026-05-04,Healthcare,British Columbia,Referral,Starter,51-200,14,4,6,1,9,1,0,2,20,0,50,4.1,$597,0
+TRIAL-10073,2026-02-27,Retail,United States,LinkedIn,Enterprise,201-500,14,25,9,6,43,6,0,2,10,1,92,7.6,"$2,746",1
+TRIAL-10074,2026-03-31,Finance,British Columbia,Paid Ads,Starter,51-200,14,12,5,0,45,3,0,2,0,0,39,5.6,$892,0
+TRIAL-10075,2026-02-03,Healthcare,Alberta,Partner,Professional,500+,30,1,1,8,22,0,0,0,15,1,33,2.8,"$7,969",0
+TRIAL-10076,2026-03-30,Retail,Ontario,Organic Search,Starter,11-50,21,3,3,0,27,1,0,2,20,0,35,2.3,$928,0
+TRIAL-10077,2026-04-13,Finance,United States,Paid Ads,Starter,1-10,21,10,2,0,26,0,0,0,0,0,88,4.5,$500,0
+TRIAL-10078,2026-02-04,Professional Services,Ontario,LinkedIn,Professional,201-500,21,21,6,5,32,5,0,2,20,0,100,6.4,"$6,143",1
+TRIAL-10079,2026-02-04,Retail,Ontario,LinkedIn,Enterprise,11-50,30,3,1,5,21,3,0,1,15,0,59,4.1,"$14,752",0
+TRIAL-10080,2026-05-03,Technology,United States,Referral,Starter,500+,30,13,4,6,24,3,0,0,20,0,100,8.2,"$1,405",1
+TRIAL-10081,2026-02-04,Professional Services,United States,Organic Search,Starter,1-10,14,11,7,0,32,4,0,1,5,0,100,8.7,$764,1
+TRIAL-10082,2026-02-22,Technology,Ontario,Paid Ads,Starter,201-500,30,12,4,2,39,2,0,1,20,0,96,6.6,"$1,451",0
+TRIAL-10083,2026-04-02,Education,British Columbia,Paid Ads,Professional,500+,30,8,0,3,14,3,0,0,10,0,67,7.9,"$5,296",0
+TRIAL-10084,2026-04-04,Finance,Ontario,Referral,Professional,51-200,21,15,8,4,40,1,0,2,15,0,82,2.6,"$3,353",1
+TRIAL-10085,2026-01-13,Finance,British Columbia,Organic Search,Enterprise,11-50,21,5,3,,27,1,0,0,5,0,65,4.1,"$6,341",0
+TRIAL-10086,2026-01-05,Finance,British Columbia,LinkedIn,Starter,1-10,21,10,5,0,36,3,0,0,15,1,100,6.1,$994,0
+TRIAL-10087,2026-04-22,Manufacturing,British Columbia,Organic Search,Starter,11-50,21,0,4,2,12,0,0,1,10,1,52,6.2,$786,0
+TRIAL-10088,2026-02-02,Finance,United States,LinkedIn,Starter,500+,30,13,6,4,41,4,0,0,20,0,77,2.7,$818,1
+TRIAL-10089,2026-04-01,Education,British Columbia,Partner,Starter,11-50,21,9,4,2,21,0,0,2,0,0,82,7.2,"$1,075",0
+TRIAL-10090,2026-02-15,Retail,Ontario,Organic Search,Professional,201-500,14,13,7,5,39,4,0,2,0,0,100,3.6,"$3,168",1
+TRIAL-10091,2026-04-10,Manufacturing,British Columbia,LinkedIn,Starter,51-200,30,12,3,3,10,5,0,2,15,0,57,5.0,"$1,513",0
+TRIAL-10092,2026-03-01,Education,Quebec,LinkedIn,Enterprise,11-50,14,10,4,,35,5,0,2,5,0,69,7.3,"$10,271",1
+TRIAL-10093,2026-02-20,Technology,Alberta,LinkedIn,Starter,1-10,30,13,3,1,32,3,1,2,0,1,100,4.6,"$1,291",0
+TRIAL-10094,2026-03-04,Manufacturing,Ontario,LinkedIn,Professional,201-500,21,13,6,3,34,3,0,2,5,0,67,8.5,"$3,082",0
+TRIAL-10095,2026-03-06,Healthcare,Alberta,Referral,Professional,11-50,21,13,6,2,25,5,0,2,20,0,100,7.6,"$4,899",1
+TRIAL-10096,2026-05-09,Healthcare,British Columbia,Partner,Enterprise,51-200,14,10,6,3,35,4,1,3,15,0,64,4.1,"$17,384",0
+TRIAL-10097,2026-02-11,Finance,Ontario,LinkedIn,Professional,1-10,14,,5,0,8,6,0,1,10,0,69,6.2,"$6,696",0
+TRIAL-10098,2026-01-17,Healthcare,British Columbia,Organic Search,Professional,1-10,14,15,4,0,36,4,0,1,5,0,54,5.8,"$7,881",1
+TRIAL-10099,2026-04-30,Technology,Europe,Partner,Enterprise,201-500,21,16,8,4,43,3,0,3,20,1,83,5.8,"$21,309",1
+TRIAL-10100,2026-04-14,Professional Services,United States,Webinar,Starter,51-200,14,5,5,1,10,4,1,2,20,0,73,9.1,$647,1
+TRIAL-10101,2026-04-08,Professional Services,Ontario,Partner,Starter,1-10,21,1,2,3,23,0,1,0,0,1,24,6.4,$933,0
+TRIAL-10102,2026-04-20,Education,Quebec,Organic Search,Starter,51-200,14,2,2,0,11,1,0,0,0,0,50,5.2,"$1,374",0
+TRIAL-10103,2026-03-28,Healthcare,Alberta,LinkedIn,Professional,51-200,14,13,5,2,37,3,0,0,10,0,78,5.9,"$7,385",1
+TRIAL-10104,2026-03-02,Education,Quebec,Organic Search,Professional,201-500,30,6,3,0,27,0,1,1,5,0,90,7.6,"$4,739",1
+TRIAL-10105,2026-01-01,Education,Quebec,Webinar,Starter,1-10,21,10,5,0,19,4,1,0,10,0,56,5.8,"$1,708",1
+TRIAL-10106,2026-05-06,Education,British Columbia,Partner,Starter,500+,14,18,5,5,31,1,1,3,0,0,100,4.8,$831,1
+TRIAL-10107,2026-03-11,Finance,Quebec,Referral,Starter,11-50,21,9,2,2,26,0,0,0,0,1,47,8.0,"$1,253",0
+TRIAL-10108,2026-03-22,Retail,Ontario,Referral,Starter,1-10,14,8,5,4,22,1,1,0,0,0,65,8.8,$850,1
+TRIAL-10109,2026-01-11,Manufacturing,Alberta,LinkedIn,Starter,51-200,21,6,6,5,12,4,0,1,15,0,57,6.6,$955,0
+TRIAL-10110,2026-03-17,Retail,Ontario,Referral,Enterprise,201-500,14,15,11,6,33,1,0,2,10,0,96,7.4,$822,1
+TRIAL-10111,2026-04-25,Finance,United States,Webinar,Enterprise,11-50,14,9,6,4,33,2,1,1,20,0,67,6.1,"$15,700",1
+TRIAL-10112,2026-02-15,Manufacturing,Ontario,Referral,Starter,11-50,14,8,2,1,52,1,1,2,20,0,84,4.2,$500,0
+TRIAL-10113,2026-01-13,Technology,Alberta,Organic Search,Starter,11-50,14,9,3,0,37,1,0,2,0,1,24,7.2,$683,0
+TRIAL-10114,2026-01-17,Technology,United States,Referral,Starter,1-10,21,9,6,0,21,2,0,0,10,1,77,4.4,"$1,078",0
+TRIAL-10115,2026-01-24,Manufacturing,Alberta,Organic Search,Professional,1-10,21,5,3,3,20,3,0,1,10,0,62,9.0,"$9,277",0
+TRIAL-10116,2026-04-23,Professional Services,Ontario,LinkedIn,Professional,11-50,30,8,3,1,37,0,1,2,20,0,63,7.5,"$3,186",0
+TRIAL-10117,2026-01-18,Retail,United States,Partner,Starter,11-50,30,7,8,3,28,1,0,0,10,0,100,6.1,"$1,086",0
+TRIAL-10118,2026-02-26,Professional Services,British Columbia,Referral,Starter,1-10,30,8,4,0,35,5,0,0,10,0,45,5.5,"$1,488",0
+TRIAL-10119,2026-02-13,Education,British Columbia,Webinar,Professional,201-500,30,11,2,3,23,4,1,1,10,1,74,7.6,"$7,218",0
+TRIAL-10120,2026-03-26,Manufacturing,British Columbia,Webinar,Professional,1-10,14,8,0,0,14,4,1,2,5,0,57,8.2,"$5,525",0
+TRIAL-10121,2026-02-24,Retail,Europe,Partner,Starter,51-200,30,10,7,4,11,3,1,0,0,1,71,8.0,"$1,514",1
+TRIAL-10122,2026-03-09,Technology,Alberta,Organic Search,Professional,1-10,30,17,5,0,47,3,1,1,10,1,,3.4,"$6,149",1
+TRIAL-10123,2026-03-12,Retail,United States,Organic Search,Professional,1-10,30,3,2,1,4,0,1,2,15,1,43,3.1,"$7,833",0
+TRIAL-10124,2026-01-08,Retail,Ontario,Paid Ads,Professional,1-10,21,3,1,2,17,5,0,1,15,0,52,4.2,"$2,935",0
+TRIAL-10125,2026-04-11,Finance,United States,Partner,Enterprise,51-200,30,17,4,0,42,5,0,2,0,0,66,7.2,"$18,488",1
+TRIAL-10126,2026-02-17,Healthcare,British Columbia,Partner,Enterprise,11-50,30,13,8,1,27,6,0,4,5,1,96,9.0,"$21,542",1
+TRIAL-10127,2026-02-03,Retail,Ontario,LinkedIn,Starter,11-50,14,9,2,1,38,1,1,3,5,0,84,4.8,"$1,322",0
+TRIAL-10128,2026-05-02,Professional Services,British Columbia,Webinar,Starter,11-50,21,5,3,0,16,1,1,1,5,0,21,6.7,"$1,998",0
+TRIAL-10129,2026-03-30,Manufacturing,United States,Organic Search,Professional,201-500,14,15,5,4,30,1,1,2,0,0,100,7.8,"$3,894",0
+TRIAL-10130,2026-02-02,Retail,Europe,Organic Search,Starter,11-50,30,17,7,3,51,5,0,0,0,0,91,10.0,"$1,346",1
+TRIAL-10131,2026-02-03,Technology,British Columbia,Referral,Professional,201-500,30,14,5,5,39,1,1,2,15,0,55,9.9,"$1,156",1
+TRIAL-10132,2026-02-19,Professional Services,Europe,Paid Ads,Professional,1-10,21,7,2,0,42,3,0,0,15,0,68,7.1,"$5,549",0
+TRIAL-10133,2026-02-19,Professional Services,British Columbia,LinkedIn,Enterprise,51-200,30,12,1,2,14,2,1,0,20,1,81,4.8,"$11,740",1
+TRIAL-10134,2026-02-04,Retail,United States,Paid Ads,Professional,1-10,21,9,1,0,15,2,0,1,0,0,55,4.6,$500,0
+TRIAL-10135,2026-01-07,Retail,United States,Paid Ads,Starter,1-10,14,3,5,1,6,3,0,0,20,0,81,4.5,"$1,380",0
+TRIAL-10136,2026-02-14,Professional Services,,LinkedIn,Professional,11-50,30,10,4,0,21,2,0,0,0,0,13,3.6,"$2,784",0
+TRIAL-10137,2026-02-08,Retail,Quebec,Referral,Professional,201-500,14,13,8,5,29,,0,0,15,0,81,5.5,"$8,121",0
+TRIAL-10138,2026-03-29,Retail,British Columbia,,Enterprise,11-50,30,19,7,1,45,5,0,1,20,0,69,7.4,"$23,607",1
+TRIAL-10139,2026-01-21,Retail,British Columbia,Referral,Starter,1-10,14,11,6,2,31,7,0,3,0,1,88,2.0,"$1,534",1
+TRIAL-10140,2026-01-23,Retail,Ontario,Webinar,Starter,1-10,21,8,3,0,22,3,1,3,0,0,92,6.5,"$1,726",1
+TRIAL-10141,2026-01-26,Healthcare,Alberta,Organic Search,Professional,500+,21,12,5,4,31,2,1,0,15,0,100,5.8,"$1,228",1
+TRIAL-10142,2026-04-05,Technology,Quebec,Webinar,Professional,1-10,30,6,0,3,26,1,1,1,10,0,76,4.6,"$5,817",0
+TRIAL-10143,2026-04-02,Finance,British Columbia,Partner,Starter,51-200,14,1,3,6,21,1,1,3,20,1,56,3.6,"$1,164",0
+TRIAL-10144,2026-01-02,Healthcare,British Columbia,LinkedIn,Starter,201-500,21,12,4,3,34,1,0,0,0,0,83,6.4,"$1,691",1
+TRIAL-10145,2026-02-05,Professional Services,Ontario,Paid Ads,Professional,11-50,14,6,6,3,34,3,0,0,15,0,52,5.4,"$6,863",0
+TRIAL-10146,2026-03-02,Healthcare,British Columbia,Paid Ads,Starter,1-10,30,8,4,4,22,2,0,1,0,0,53,8.7,"$1,166",1
+TRIAL-10147,2026-03-28,Healthcare,Europe,Partner,Starter,1-10,30,11,3,0,27,9,0,0,15,1,99,3.5,"$1,859",0
+TRIAL-10148,2026-02-11,Education,United States,Paid Ads,Starter,11-50,30,11,5,0,15,1,0,0,20,0,78,4.8,$921,0
+TRIAL-10149,2026-04-10,Retail,Quebec,Partner,Professional,51-200,21,6,3,1,28,0,0,2,15,0,100,2.7,"$7,929",0
+TRIAL-10150,2026-02-05,Professional Services,Alberta,Webinar,Professional,11-50,14,17,7,1,43,2,1,0,5,1,74,9.9,"$7,382",1
+TRIAL-10151,2026-03-08,Professional Services,Ontario,Organic Search,Professional,1-10,30,11,6,1,26,3,0,0,10,0,89,3.7,"$7,639",1
+TRIAL-10152,2026-02-07,Professional Services,Quebec,Webinar,Starter,1-10,21,3,2,2,17,4,1,0,15,0,38,3.7,"$1,495",0
+TRIAL-10153,2026-05-11,Manufacturing,Ontario,Referral,Professional,11-50,14,12,7,,20,0,1,0,10,0,85,6.0,"$5,992",0
+TRIAL-10154,2026-01-04,Education,Ontario,Referral,Starter,1-10,14,9,0,3,32,4,0,1,0,1,61,3.8,"$1,512",0
+TRIAL-10155,2026-04-02,Retail,Ontario,Webinar,Professional,51-200,14,14,3,2,30,2,1,1,5,0,55,9.0,"$5,929",0
+TRIAL-10156,2026-03-03,Education,Europe,Organic Search,Starter,500+,14,1,6,6,5,2,0,0,5,0,83,8.3,$907,0
+TRIAL-10157,2026-04-16,Finance,Quebec,Webinar,Starter,51-200,14,13,5,0,34,3,1,0,15,1,64,3.8,"$1,737",0
+TRIAL-10158,2026-05-11,Professional Services,United States,LinkedIn,Professional,51-200,21,8,3,3,25,4,0,0,15,0,49,4.6,"$6,146",0
+TRIAL-10159,2026-04-01,Professional Services,British Columbia,LinkedIn,Enterprise,1-10,21,9,9,0,37,4,0,1,20,0,100,3.5,"$16,230",0
+TRIAL-10160,2026-05-01,Manufacturing,United States,Referral,Professional,201-500,21,20,8,4,55,6,0,2,0,0,100,7.4,"$6,898",1
+TRIAL-10161,2026-04-03,Professional Services,Quebec,Paid Ads,Starter,1-10,30,11,5,2,26,4,0,2,15,0,39,6.3,"$1,066",0
+TRIAL-10162,2026-05-09,Education,Ontario,LinkedIn,Enterprise,500+,14,15,8,9,43,2,0,3,10,1,100,8.4,"$15,043",1
+TRIAL-10163,2026-02-13,Education,Quebec,Partner,Professional,11-50,30,14,6,4,30,3,0,1,5,0,67,5.1,"$4,447",0
+TRIAL-10164,2026-02-19,Finance,Quebec,Organic Search,Professional,51-200,30,7,3,1,12,5,1,1,20,0,51,5.8,"$2,717",0
+TRIAL-10165,2026-05-03,Technology,Europe,Paid Ads,Enterprise,51-200,14,9,6,0,26,0,0,1,15,0,71,6.2,"$18,742",0
+TRIAL-10166,2026-01-21,Manufacturing,Alberta,Referral,Enterprise,500+,30,16,6,8,50,0,0,0,5,0,100,8.0,"$22,576",1
+TRIAL-10167,2026-01-03,Technology,Alberta,Organic Search,Starter,51-200,21,9,0,2,30,4,0,1,5,0,9,5.1,$728,0
+TRIAL-10168,2026-01-31,Professional Services,Ontario,Partner,Professional,11-50,30,21,6,7,51,3,0,2,15,0,100,7.4,"$5,008",1
+TRIAL-10169,2026-01-12,Manufacturing,British Columbia,Organic Search,Starter,11-50,21,6,4,2,19,4,0,2,15,1,61,5.0,$500,0
+TRIAL-10170,2026-02-03,Professional Services,United States,LinkedIn,Starter,11-50,30,5,5,3,26,4,0,2,20,1,79,2.7,"$2,012",0
+TRIAL-10171,2026-02-25,Professional Services,British Columbia,Paid Ads,Starter,11-50,30,4,5,3,20,0,0,2,10,0,58,4.8,"$1,382",0
+TRIAL-10172,2026-02-04,Retail,Ontario,Organic Search,Starter,51-200,21,8,2,0,21,3,0,2,15,0,1,3.4,"$1,010",0
+TRIAL-10173,2026-02-02,Professional Services,Alberta,Partner,Enterprise,201-500,21,26,9,0,57,6,0,2,10,0,100,8.8,"$17,830",1
+TRIAL-10174,2026-01-30,Education,Europe,Partner,Professional,1-10,21,10,8,1,38,0,1,2,5,0,67,6.6,"$5,133",1
+TRIAL-10175,2026-04-21,Professional Services,United States,Paid Ads,Starter,51-200,14,5,5,3,13,3,0,3,20,0,78,6.4,$836,0
+TRIAL-10176,2026-01-04,Professional Services,Quebec,Referral,Professional,1-10,30,4,2,1,11,0,1,3,5,0,81,6.3,"$4,342",0
+TRIAL-10177,2026-01-09,Professional Services,Alberta,Organic Search,Starter,201-500,21,11,6,4,11,1,0,0,0,0,28,6.4,"$1,215",1
+TRIAL-10178,2026-05-11,Retail,Quebec,Webinar,Starter,1-10,14,7,4,0,17,3,1,0,15,0,70,6.8,"$1,674",0
+TRIAL-10179,2026-04-07,Healthcare,British Columbia,LinkedIn,Professional,1-10,30,15,6,0,30,7,0,0,5,0,65,9.5,"$8,913",0
+TRIAL-10180,2026-01-24,Retail,Ontario,Referral,Starter,1-10,30,17,8,0,39,5,0,0,20,0,75,8.7,"$1,383",1
+TRIAL-10181,2026-05-02,Education,United States,Organic Search,Professional,500+,14,14,9,6,38,3,0,1,0,0,83,7.7,"$9,524",1
+TRIAL-10182,2026-03-23,Education,Ontario,Organic Search,Professional,201-500,14,9,6,3,27,2,0,1,15,0,94,7.0,"$5,069",1
+TRIAL-10183,2026-02-27,Professional Services,Europe,Organic Search,Professional,51-200,21,14,8,4,29,1,0,1,5,1,97,4.4,"$4,370",1
+TRIAL-10184,2026-02-24,Education,Europe,Partner,Professional,51-200,21,15,9,5,43,5,0,1,15,1,99,7.0,"$7,586",0
+TRIAL-10185,2026-01-19,Professional Services,Europe,LinkedIn,Professional,11-50,14,18,7,1,29,6,0,2,0,0,100,4.5,"$6,195",1
+TRIAL-10186,2026-02-12,Technology,British Columbia,Organic Search,Professional,51-200,30,22,5,4,42,1,0,0,0,0,100,4.5,"$10,255",1
+TRIAL-10187,2026-01-12,Education,Ontario,Organic Search,Professional,1-10,21,6,8,1,40,4,0,0,5,1,56,2.8,"$6,611",0
+TRIAL-10188,2026-03-07,Retail,Quebec,Organic Search,Professional,51-200,14,12,1,2,23,5,1,0,0,0,,1.5,"$6,759",1
+TRIAL-10189,2026-02-18,Retail,Ontario,Paid Ads,Starter,500+,14,0,3,5,13,0,0,2,15,0,74,6.6,$500,1
+TRIAL-10190,2026-04-10,Manufacturing,British Columbia,Referral,Starter,51-200,21,6,3,2,24,1,1,2,10,0,63,7.0,"$1,473",0
+TRIAL-10191,2026-02-25,Professional Services,Ontario,LinkedIn,Enterprise,11-50,30,10,8,3,25,8,0,1,20,0,46,7.7,"$15,230",1
+TRIAL-10192,2026-05-08,Technology,Quebec,Referral,Starter,11-50,14,12,5,1,30,4,0,0,20,0,79,2.8,"$1,308",0
+TRIAL-10193,2026-03-14,Retail,British Columbia,Referral,Professional,11-50,21,17,8,4,42,3,0,3,15,0,100,5.5,"$4,507",1
+TRIAL-10194,2026-02-17,Manufacturing,United States,Organic Search,Professional,51-200,21,18,8,3,48,5,0,0,20,0,87,5.2,"$1,974",1
+TRIAL-10195,2026-03-15,Professional Services,British Columbia,Organic Search,Starter,51-200,14,8,3,3,45,0,0,2,15,1,85,5.1,$818,0
+TRIAL-10196,2026-02-23,Finance,British Columbia,Paid Ads,Professional,11-50,21,11,7,1,30,3,0,4,5,0,83,3.2,"$3,481",0
+TRIAL-10197,2026-03-09,Finance,British Columbia,Referral,Starter,1-10,30,13,7,3,39,3,1,2,0,0,98,7.6,$684,1
+TRIAL-10198,2026-05-02,Finance,United States,Organic Search,Starter,11-50,21,5,3,0,7,0,1,2,20,0,48,8.2,"$1,513",1
+TRIAL-10199,2026-03-05,Retail,United States,Partner,Enterprise,51-200,14,19,8,2,39,3,0,4,10,0,93,6.5,"$7,874",1
+TRIAL-10200,2026-02-20,Retail,British Columbia,Paid Ads,Professional,1-10,21,0,3,0,12,0,1,0,20,0,51,4.5,"$3,561",0
+TRIAL-10201,2026-04-09,Technology,Alberta,Organic Search,Professional,201-500,21,15,4,4,34,3,1,0,15,0,72,4.6,"$8,029",1
+TRIAL-10202,2026-02-25,Retail,United States,Webinar,Professional,11-50,14,6,1,2,14,1,1,1,5,0,45,6.3,"$4,202",0
+TRIAL-10203,2026-03-09,Healthcare,United States,LinkedIn,Professional,11-50,30,14,6,2,32,3,0,0,15,0,86,4.8,"$6,534",0
+TRIAL-10204,2026-04-21,Retail,Quebec,Webinar,Starter,201-500,30,10,5,2,24,6,1,3,5,0,58,4.4,"$1,467",1
+TRIAL-10205,2026-03-09,Professional Services,Quebec,Paid Ads,Enterprise,51-200,30,24,9,1,45,4,0,1,15,0,100,3.8,"$8,999",0
+TRIAL-10206,2026-02-27,Manufacturing,Quebec,Webinar,Professional,1-10,30,8,6,0,33,4,1,2,5,0,15,5.5,"$6,053",0
+TRIAL-10207,2026-04-19,Professional Services,Alberta,Organic Search,Professional,201-500,14,18,8,6,31,3,0,0,5,1,100,3.9,"$8,194",0
+TRIAL-10208,2026-03-20,Professional Services,Alberta,Paid Ads,Professional,1-10,30,8,5,0,22,0,1,1,0,1,69,4.2,"$7,491",0
+TRIAL-10209,2026-04-30,Manufacturing,United States,Referral,Professional,11-50,21,6,5,1,8,0,0,1,10,0,28,8.0,"$5,979",0
+TRIAL-10210,2026-02-25,Technology,Ontario,LinkedIn,Professional,201-500,14,7,7,2,14,1,0,2,0,0,74,3.8,"$2,270",0
+TRIAL-10211,2026-01-17,Retail,Alberta,LinkedIn,Enterprise,11-50,21,16,8,2,30,,0,4,20,0,63,7.6,"$23,704",0
+TRIAL-10212,2026-03-13,Education,Europe,Referral,Starter,1-10,21,10,6,0,21,6,1,3,15,1,100,9.6,"$1,294",0
+TRIAL-10213,2026-03-23,Education,United States,Partner,Enterprise,1-10,30,13,5,0,46,3,1,2,15,0,74,9.9,"$17,700",1
+TRIAL-10214,2026-05-07,Manufacturing,Ontario,Webinar,Starter,11-50,21,17,8,2,38,7,1,0,0,0,59,7.0,$973,1
+TRIAL-10215,2026-05-05,Education,Alberta,Paid Ads,Starter,201-500,21,12,5,3,40,2,0,1,15,0,64,6.0,"$1,143",1
+TRIAL-10216,2026-02-03,Professional Services,British Columbia,Referral,Starter,500+,21,9,1,7,48,3,0,2,10,0,73,6.0,"$1,493",1
+TRIAL-10217,2026-01-19,Technology,Ontario,LinkedIn,Professional,500+,21,19,6,3,47,6,0,1,10,0,100,4.9,"$4,323",1
+TRIAL-10218,2026-02-27,Education,Ontario,Webinar,Professional,11-50,21,10,5,0,30,3,1,0,20,1,96,6.2,"$8,397",0
+TRIAL-10219,2026-05-05,Retail,Quebec,Paid Ads,Professional,11-50,21,3,4,2,9,0,0,0,0,0,64,5.3,"$6,400",0
+TRIAL-10220,2026-03-03,Professional Services,United States,Organic Search,Starter,51-200,14,9,7,3,14,4,0,1,0,0,57,7.3,"$1,039",1
+TRIAL-10221,2026-04-28,Education,Quebec,Organic Search,Starter,51-200,14,18,6,3,35,0,0,0,10,0,100,2.1,"$1,757",0
+TRIAL-10222,2026-01-17,Education,United States,Partner,Enterprise,1-10,30,14,5,0,15,3,1,0,15,1,73,5.4,"$18,049",0
+TRIAL-10223,2026-02-22,Professional Services,Ontario,Paid Ads,Starter,1-10,21,4,5,0,25,0,0,0,10,0,24,8.3,"$1,098",0
+TRIAL-10224,2026-05-01,Retail,United States,Paid Ads,Professional,51-200,30,6,3,3,41,1,0,1,5,0,42,2.3,"$7,457",0
+TRIAL-10225,2026-02-15,Education,British Columbia,Partner,Professional,201-500,14,8,5,1,33,1,0,0,5,0,61,5.0,"$3,763",0
+TRIAL-10226,2026-02-10,Retail,United States,Partner,Professional,201-500,21,25,11,0,57,4,0,1,0,0,100,5.7,"$6,369",1
+TRIAL-10227,2026-01-19,Retail,Ontario,Webinar,Starter,1-10,21,13,9,0,36,3,1,0,0,0,82,7.2,"$1,176",1
+TRIAL-10228,2026-03-18,Retail,United States,LinkedIn,Starter,201-500,21,6,4,1,18,1,0,0,15,0,59,5.2,"$1,291",0
+TRIAL-10229,2026-02-25,Finance,Alberta,Webinar,Starter,51-200,14,3,4,3,14,3,1,2,0,0,45,4.8,"$1,076",0
+TRIAL-10230,2026-04-22,Education,Ontario,LinkedIn,Professional,500+,30,14,5,7,43,1,1,0,5,0,97,6.0,"$4,058",0
+TRIAL-10231,2026-01-07,Healthcare,Europe,Organic Search,Starter,51-200,14,13,4,3,38,4,0,2,0,0,73,5.9,"$1,118",0
+TRIAL-10232,2026-04-30,Retail,Ontario,Partner,Starter,1-10,21,10,6,0,22,1,0,1,10,0,75,9.0,"$1,342",1
+TRIAL-10233,2026-01-22,Professional Services,Ontario,Webinar,Starter,500+,21,15,4,9,27,5,1,3,20,0,100,8.0,"$1,035",1
+TRIAL-10234,2026-03-01,Technology,Ontario,LinkedIn,Professional,11-50,30,4,1,0,20,6,0,2,20,0,48,4.5,"$5,392",0
+TRIAL-10235,2026-04-23,Professional Services,British Columbia,Organic Search,Starter,1-10,14,4,2,0,14,1,0,1,10,0,60,6.0,$686,0
+TRIAL-10236,2026-05-07,Finance,British Columbia,LinkedIn,Professional,51-200,21,19,7,0,28,5,1,0,10,0,86,8.8,"$5,865",1
+TRIAL-10237,2026-04-15,Manufacturing,Europe,LinkedIn,Enterprise,1-10,21,11,6,0,32,4,0,1,20,0,80,4.8,"$12,867",0
+TRIAL-10238,2026-03-10,Retail,Ontario,Paid Ads,Starter,500+,21,0,0,5,11,0,1,3,5,0,22,4.7,"$1,349",0
+TRIAL-10239,2026-01-23,Professional Services,United States,LinkedIn,Starter,11-50,21,10,4,1,29,5,0,0,0,0,54,7.3,$649,0
+TRIAL-10240,2026-04-22,Technology,Quebec,Webinar,Professional,11-50,21,13,5,1,23,3,1,0,5,0,72,7.0,"$3,734",1
+TRIAL-10241,2026-02-25,Retail,United States,Paid Ads,Professional,51-200,21,13,6,3,35,5,1,0,15,0,91,8.4,"$5,188",1
+TRIAL-10242,2026-03-31,Technology,United States,Paid Ads,Professional,51-200,21,5,1,3,32,0,0,2,5,0,92,6.7,"$7,511",0
+TRIAL-10243,2026-04-25,Retail,Ontario,Organic Search,Starter,201-500,21,8,0,3,11,0,0,2,15,0,83,5.1,"$1,135",0
+TRIAL-10244,2026-03-31,Healthcare,United States,Referral,Enterprise,1-10,30,10,6,0,27,4,0,3,10,0,58,9.0,"$17,425",1
+TRIAL-10245,2026-04-19,Finance,Europe,LinkedIn,Starter,1-10,21,6,1,0,17,5,0,0,0,1,43,1.0,$513,0
+TRIAL-10246,2026-02-05,Manufacturing,Alberta,Paid Ads,Starter,51-200,30,3,1,2,27,3,0,0,15,0,55,6.0,"$1,733",0
+TRIAL-10247,2026-04-13,Technology,British Columbia,Webinar,Professional,201-500,21,15,6,6,34,0,1,2,15,0,100,8.1,"$6,200",1
+TRIAL-10248,2026-02-23,Retail,United States,Organic Search,Professional,51-200,21,16,4,0,36,,0,1,0,0,53,3.5,"$6,321",0
+TRIAL-10249,2026-02-03,Technology,United States,Paid Ads,Starter,11-50,30,5,3,3,10,1,1,0,5,0,45,6.6,"$1,200",0
+TRIAL-10250,2026-01-31,Retail,Ontario,Organic Search,Starter,11-50,21,0,2,3,14,1,0,2,10,0,64,7.2,$944,0
+TRIAL-10251,2026-05-05,Healthcare,United States,Paid Ads,Professional,201-500,14,14,4,3,20,2,0,1,0,0,70,5.2,"$5,838",0
+TRIAL-10252,2026-03-08,Education,Europe,Organic Search,Starter,1-10,21,5,4,0,19,1,0,1,10,0,83,8.7,$779,0
+TRIAL-10253,2026-01-05,Healthcare,Alberta,Referral,Professional,51-200,14,10,3,4,27,0,0,1,0,0,83,6.7,"$5,368",1
+TRIAL-10254,2026-04-12,Education,British Columbia,LinkedIn,Starter,51-200,30,7,2,0,18,5,0,1,20,0,,5.5,"$1,781",0
+TRIAL-10255,2026-03-08,Finance,United States,Referral,Professional,1-10,30,10,5,0,32,3,1,1,20,0,58,6.9,"$12,083",1
+TRIAL-10256,2026-02-21,Retail,Alberta,Partner,Starter,201-500,21,8,1,6,38,8,1,0,0,0,65,5.9,$858,0
+TRIAL-10257,2026-05-07,Technology,British Columbia,Partner,Professional,11-50,14,16,4,0,31,3,0,3,10,0,100,10.0,"$6,649",1
+TRIAL-10258,2026-01-15,Retail,Alberta,Paid Ads,Professional,51-200,30,2,2,0,1,4,0,1,0,0,30,5.1,"$8,571",0
+TRIAL-10259,2026-02-06,Retail,Ontario,Paid Ads,Starter,1-10,30,2,0,0,15,3,0,2,20,0,57,5.7,"$1,365",0
+TRIAL-10260,2026-01-17,Professional Services,Ontario,Paid Ads,Enterprise,11-50,14,17,9,2,27,4,0,0,10,1,100,4.3,"$10,046",1
+TRIAL-10013,2026-01-24,Finance,Ontario,Referral,Professional,11-50,21,9,4,0,40,4,0,1,0,0,44,,"$4,667",0
+TRIAL-10038,2026-03-09,Technology,Ontario,LinkedIn,Enterprise,11-50,14,17,7,0,25,4,0,2,20,0,100,6.3,"$16,478",0
