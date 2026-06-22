@@ -1,0 +1,121 @@
+CommentID,CommentDate,Platform,City,MealType,CustomerSegment,CustomerComment,FeedbackTopic,EngagementScore
+COM-001,2026-03-06,TikTok,Ajax,Breakfast,Weekly User,"Prices are reasonable when there is a lunch promotion, but normal fees are high.",Pricing,12
+COM-002,2026-03-09,X/Twitter,Oshawa,Salad,Student,Support kept sending copied messages and did not read my complaint about the missing Salad.,Customer_Service,19
+COM-003,2026-03-12,Facebook,London,Breakfast,Office Worker,"The drink holder was weak, so the coffee spilled before it reached my office.",Packaging,26
+COM-004,2026-03-15,Google Review,Whitby,Indian Food,Family,No one replied to my email for three days. This is not acceptable customer care.,Customer_Service,33
+COM-005,2026-03-18,Instagram,London,Pasta,First-Time User,The service fee and delivery fee made my Pasta order too expensive in London. #FreshBite,Pricing,40
+COM-006,2026-03-21,TikTok,Markham,Coffee,Weekly User,The Coffee tasted fresh and warm. FreshBite should keep this restaurant on the app! #FreshBite,Food_Quality,47
+COM-007,2026-03-24,X/Twitter,Whitby,Breakfast,Student,"The drink holder was weak, so the coffee spilled before it reached my office.",Packaging,54
+COM-008,2026-03-27,Facebook,Waterloo,Pizza,Office Worker,"The salad was okay, but the chicken was dry and needed more sauce.",Food_Quality,61
+COM-009,2026-03-30,Google Review,Toronto,Pizza,Family,"FRESHBITE DELIVERED MY PIZZA ORDER TO TORONTO 25 MINUTES LATE, AND THE DRIVER COULD NOT FIND THE BUILDING. #FRESHBITE",Delivery,68
+COM-010,2026-04-02,Instagram,Ajax,Indian Food,First-Time User,The FreshBite app froze when I tried to apply the SAVE10 coupon on Monday.,App_Experience,75
+COM-011,2026-04-05,TikTok,Vaughan,Salad,Weekly User,"The delivery was fast today! My lunch arrived before 12:30 PM, and the driver was polite.",Delivery,82
+COM-012,2026-04-08,X/Twitter,Oshawa,Coffee,Student,"I like the new search filter, but the app loads slowly after the latest update.",App_Experience,89
+COM-013,2026-04-11,Facebook,Markham,Pizza,Office Worker,"Customer service answered my chat in two minutes and refunded the missing drink. Thank you, FreshBite!",Customer_Service,96
+COM-014,2026-04-14,Google Review,Waterloo,Breakfast,Family,"Prices are reasonable when there is a lunch promotion, but normal fees are high.",Pricing,8
+COM-015,2026-04-17,Instagram,Ajax,Burger,First-Time User,"Packaging was clean, sealed, and easy to recycle. Great job by FreshBite and the restaurant.",Packaging,15
+COM-016,2026-04-20,TikTok,Vaughan,Coffee,Weekly User,"I like the new search filter, but the app loads slowly after the latest update.",App_Experience,22
+COM-017,2026-04-23,X/Twitter,Ajax,Breakfast,Student,"Prices are reasonable when there is a lunch promotion, but normal fees are high.",Pricing,29
+COM-018,2026-04-26,Facebook,Whitby,Breakfast,Office Worker,"The drink holder was weak, so the coffee spilled before it reached my office.",Packaging,36
+COM-019,2026-04-29,Google Review,Toronto,Pizza,Family,"FreshBite delivered my Pizza order to Toronto 25 minutes late, and the driver could not find the building. #FreshBite",Delivery,43
+COM-020,2026-05-02,Instagram,Ajax,Coffee,First-Time User,"I spoke with Maria from FreshBite support, and she solved the issue quickly.",Customer_Service,50
+COM-021,2026-05-05,TikTok,Waterloo,Breakfast,Weekly User,"Prices are reasonable when there is a lunch promotion, but normal fees are high.",Pricing,57
+COM-022,2026-05-08,X/Twitter,Vaughan,Indian Food,Student,"The food was cold, oily, and not like the photo. I could not finish the meal.",Food_Quality,64
+COM-023,2026-05-11,Facebook,Toronto,Pasta,Office Worker,"My sushi box looked professional, and the cold items were separated from hot food.",Packaging,71
+COM-024,2026-05-14,Google Review,Waterloo,Indian Food,Family,The FreshBite app froze when I tried to apply the SAVE10 coupon on Monday. #FreshBite,App_Experience,78
+COM-025,2026-05-17,Instagram,Markham,Sushi,First-Time User,The discount code helped a lot. The final price was fair for a student budget.,Pricing,85
+COM-026,2026-05-20,TikTok,Waterloo,Coffee,Weekly User,"My order status said delivered, but the food was not at my door in Waterloo.",Delivery,92
+COM-027,2026-05-23,X/Twitter,Toronto,Sushi,Student,The discount code helped a lot. The final price was fair for a student budget.,Pricing,99
+COM-028,2026-05-26,Facebook,Markham,Pizza,Office Worker,"Customer service answered my chat in two minutes and refunded the missing drink. Thank you, FreshBite!",Customer_Service,11
+COM-029,2026-05-29,Google Review,Waterloo,Indian Food,Family,The FreshBite app froze when I tried to apply the SAVE10 coupon on Monday. #FreshBite,App_Experience,18
+COM-030,2026-06-01,Instagram,Oshawa,Salad,First-Time User,"The delivery was fast today! My lunch arrived before 12:30 PM, and the driver was polite.",Delivery,25
+COM-031,2026-06-04,TikTok,Toronto,Sushi,Weekly User,The discount code helped a lot. The final price was fair for a student budget.,Pricing,32
+COM-032,2026-06-07,X/Twitter,Waterloo,Coffee,Student,"I spoke with Maria from FreshBite support, and she solved the issue quickly.",Customer_Service,39
+COM-033,2026-06-10,Facebook,Waterloo,Coffee,Office Worker,"I spoke with Maria from FreshBite support, and she solved the issue quickly.",Customer_Service,46
+COM-034,2026-03-05,Google Review,London,Pasta,Family,The service fee and delivery fee made my Pasta order too expensive in London. #FreshBite,Pricing,53
+COM-035,2026-03-08,Instagram,Vaughan,Indian Food,First-Time User,"The food was cold, oily, and not like the photo. I could not finish the meal.",Food_Quality,60
+COM-036,2026-03-11,TikTok,Markham,Pasta,Weekly User,"My sushi box looked professional, and the cold items were separated from hot food.",Packaging,67
+COM-037,2026-03-14,X/Twitter,Waterloo,Pizza,Student,"The salad was okay, but the chicken was dry and needed more sauce.",Food_Quality,74
+COM-038,2026-03-17,Facebook,Markham,Sushi,Office Worker,The discount code helped a lot. The final price was fair for a student budget.,Pricing,81
+COM-039,2026-03-20,Google Review,Toronto,Pizza,Family,"Customer service answered my chat in two minutes and refunded the missing drink. Thank you, FreshBite! #FreshBite",Customer_Service,88
+COM-040,2026-03-23,Instagram,Waterloo,Coffee,First-Time User,"My order status said delivered, but the food was not at my door in Waterloo.",Delivery,95
+COM-041,2026-03-26,TikTok,London,Indian Food,Weekly User,No one replied to my email for three days. This is not acceptable customer care.,Customer_Service,7
+COM-042,2026-03-29,X/Twitter,Oshawa,Sushi,Student,"The soup leaked inside the bag, and the napkins were wet when it arrived in Oshawa. #FreshBite",Packaging,14
+COM-043,2026-04-01,Facebook,Markham,Pasta,Office Worker,"My sushi box looked professional, and the cold items were separated from hot food.",Packaging,21
+COM-044,2026-04-04,Google Review,London,Indian Food,Family,No one replied to my email for three days. This is not acceptable customer care.,Customer_Service,28
+COM-045,2026-04-07,Instagram,Whitby,Pasta,First-Time User,The service fee and delivery fee made my Pasta order too expensive in Whitby.,Pricing,35
+COM-046,2026-04-10,TikTok,Markham,Coffee,Weekly User,The Coffee tasted fresh and warm. FreshBite should keep this restaurant on the app! #FreshBite,Food_Quality,42
+COM-047,2026-04-13,X/Twitter,Ajax,Breakfast,Student,"Prices are reasonable when there is a lunch promotion, but normal fees are high.",Pricing,49
+COM-048,2026-04-16,Facebook,Ajax,Burger,Office Worker,"Packaging was clean, sealed, and easy to recycle. Great job by FreshBite and the restaurant.",Packaging,56
+COM-049,2026-04-19,Google Review,Oshawa,Salad,Family,"The delivery was fast today! My lunch arrived before 12:30 PM, and the driver was polite.",Delivery,63
+COM-050,2026-04-22,Instagram,Whitby,Salad,First-Time User,Amazing flavor from Green Bowl Kitchen in Whitby. The meal felt healthy and high quality.,Food_Quality,70
+COM-051,2026-04-25,TikTok,Waterloo,Indian Food,Weekly User,THE FRESHBITE APP FROZE WHEN I TRIED TO APPLY THE SAVE10 COUPON ON MONDAY. #FRESHBITE,App_Experience,77
+COM-052,2026-04-28,X/Twitter,Markham,Pizza,Student,"FreshBite delivered my Pizza order to Markham 25 minutes late, and the driver could not find the building.",Delivery,84
+COM-053,2026-05-01,Facebook,London,Salad,Office Worker,Amazing flavor from Green Bowl Kitchen in London. The meal felt healthy and high quality.,Food_Quality,91
+COM-054,2026-05-04,Google Review,Whitby,Indian Food,Family,The courier called me twice and handled the address problem well. Delivery was better than last time.,Delivery,98
+COM-055,2026-05-07,Instagram,Ajax,Coffee,First-Time User,"I spoke with Maria from FreshBite support, and she solved the issue quickly.",Customer_Service,10
+COM-056,2026-05-10,TikTok,Oshawa,Coffee,Weekly User,"I like the new search filter, but the app loads slowly after the latest update.",App_Experience,17
+COM-057,2026-05-13,X/Twitter,Whitby,Pizza,Student,"Ordering through the app was simple, and Apple Pay worked without any problem.",App_Experience,24
+COM-058,2026-05-16,Facebook,Toronto,Salad,Office Worker,"The map in the app was wrong, and it kept showing the driver in Toronto while I live in Toronto.",App_Experience,31
+COM-059,2026-05-19,Google Review,Oshawa,Burger,Family,FreshBite showed one price at checkout and another price on the receipt.,Pricing,38
+COM-060,2026-05-22,Instagram,Markham,Salad,First-Time User,"The map in the app was wrong, and it kept showing the driver in Toronto while I live in Markham.",App_Experience,45
+COM-061,2026-05-25,TikTok,Ajax,Pizza,Weekly User,"The salad was okay, but the chicken was dry and needed more sauce.",Food_Quality,52
+COM-062,2026-05-28,X/Twitter,Toronto,Salad,Student,"The map in the app was wrong, and it kept showing the driver in Toronto while I live in Toronto.",App_Experience,59
+COM-063,2026-05-31,Facebook,Whitby,Pasta,Office Worker,The service fee and delivery fee made my Pasta order too expensive in Whitby.,Pricing,66
+COM-064,2026-06-03,Google Review,London,Indian Food,Family,The courier called me twice and handled the address problem well. Delivery was better than last time.,Delivery,73
+COM-065,2026-06-06,Instagram,Toronto,Pizza,First-Time User,"Customer service answered my chat in two minutes and refunded the missing drink. Thank you, FreshBite! #FreshBite",Customer_Service,80
+COM-066,2026-06-09,TikTok,Oshawa,Indian Food,Weekly User,"The food was cold, oily, and not like the photo. I could not finish the meal.",Food_Quality,87
+COM-067,2026-03-04,X/Twitter,Ajax,Coffee,Student,"My order status said delivered, but the food was not at my door in Ajax.",Delivery,94
+COM-068,2026-03-07,Facebook,Oshawa,Coffee,Office Worker,"I like the new search filter, but the app loads slowly after the latest update.",App_Experience,6
+COM-069,2026-03-10,Google Review,Markham,Coffee,Family,The Coffee tasted fresh and warm. FreshBite should keep this restaurant on the app! #FreshBite,Food_Quality,13
+COM-070,2026-03-13,Instagram,Oshawa,Sushi,First-Time User,"The soup leaked inside the bag, and the napkins were wet when it arrived in Oshawa. #FreshBite",Packaging,20
+COM-071,2026-03-16,TikTok,Waterloo,Pizza,Weekly User,"The salad was okay, but the chicken was dry and needed more sauce.",Food_Quality,27
+COM-072,2026-03-19,X/Twitter,Markham,Pizza,Student,"FreshBite delivered my Pizza order to Markham 25 minutes late, and the driver could not find the building.",Delivery,34
+COM-073,2026-03-22,Facebook,Vaughan,Indian Food,Office Worker,"The food was cold, oily, and not like the photo. I could not finish the meal.",Food_Quality,41
+COM-074,2026-03-25,Google Review,Vaughan,Salad,Family,Support kept sending copied messages and did not read my complaint about the missing Salad.,Customer_Service,48
+COM-075,2026-03-28,Instagram,Oshawa,Salad,First-Time User,Support kept sending copied messages and did not read my complaint about the missing Salad.,Customer_Service,55
+COM-076,2026-03-31,TikTok,Ajax,Burger,Weekly User,"Packaging was clean, sealed, and easy to recycle. Great job by FreshBite and the restaurant.",Packaging,62
+COM-077,2026-04-03,X/Twitter,Ajax,Indian Food,Student,The FreshBite app froze when I tried to apply the SAVE10 coupon on Monday.,App_Experience,69
+COM-078,2026-04-06,Facebook,Ajax,Pizza,Office Worker,"The salad was okay, but the chicken was dry and needed more sauce.",Food_Quality,76
+COM-079,2026-04-09,Google Review,London,Pizza,Family,"Ordering through the app was simple, and Apple Pay worked without any problem.",App_Experience,83
+COM-080,2026-04-12,Instagram,Waterloo,Burger,First-Time User,"Packaging was clean, sealed, and easy to recycle. Great job by FreshBite and the restaurant.",Packaging,90
+COM-081,2026-04-15,TikTok,Vaughan,Coffee,Weekly User,"I like the new search filter, but the app loads slowly after the latest update.",App_Experience,97
+COM-082,2026-04-18,X/Twitter,Toronto,Pizza,Student,"Customer service answered my chat in two minutes and refunded the missing drink. Thank you, FreshBite! #FreshBite",Customer_Service,9
+COM-083,2026-04-21,Facebook,Whitby,Pizza,Office Worker,"ORDERING THROUGH THE APP WAS SIMPLE, AND APPLE PAY WORKED WITHOUT ANY PROBLEM.",App_Experience,16
+COM-084,2026-04-24,Google Review,Oshawa,Sushi,Family,"The soup leaked inside the bag, and the napkins were wet when it arrived in Oshawa. #FreshBite",Packaging,23
+COM-085,2026-04-27,Instagram,Whitby,Indian Food,First-Time User,The courier called me twice and handled the address problem well. Delivery was better than last time.,Delivery,30
+COM-086,2026-04-30,TikTok,London,Salad,Weekly User,Amazing flavor from Green Bowl Kitchen in London. The meal felt healthy and high quality.,Food_Quality,37
+COM-087,2026-05-03,X/Twitter,Ajax,Coffee,Student,"My order status said delivered, but the food was not at my door in Ajax.",Delivery,44
+COM-088,2026-05-06,Facebook,Whitby,Indian Food,Office Worker,No one replied to my email for three days. This is not acceptable customer care.,Customer_Service,51
+COM-089,2026-05-09,Google Review,London,Salad,Family,Amazing flavor from Green Bowl Kitchen in London. The meal felt healthy and high quality.,Food_Quality,58
+COM-090,2026-05-12,Instagram,Toronto,Coffee,First-Time User,The Coffee tasted fresh and warm. FreshBite should keep this restaurant on the app!,Food_Quality,65
+COM-091,2026-05-15,TikTok,Oshawa,Indian Food,Weekly User,"The food was cold, oily, and not like the photo. I could not finish the meal.",Food_Quality,72
+COM-092,2026-05-18,X/Twitter,Vaughan,Burger,Student,FreshBite showed one price at checkout and another price on the receipt.,Pricing,79
+COM-093,2026-05-21,Facebook,Toronto,Pizza,Office Worker,"FreshBite delivered my Pizza order to Toronto 25 minutes late, and the driver could not find the building. #FreshBite",Delivery,86
+COM-094,2026-05-24,Google Review,Toronto,Sushi,Family,The discount code helped a lot. The final price was fair for a student budget.,Pricing,93
+COM-095,2026-05-27,Instagram,Ajax,Coffee,First-Time User,"I spoke with Maria from FreshBite support, and she solved the issue quickly.",Customer_Service,5
+COM-096,2026-05-30,TikTok,Vaughan,Salad,Weekly User,Support kept sending copied messages and did not read my complaint about the missing Salad.,Customer_Service,12
+COM-097,2026-06-02,X/Twitter,Whitby,Indian Food,Student,No one replied to my email for three days. This is not acceptable customer care.,Customer_Service,19
+COM-098,2026-06-05,Facebook,Whitby,Indian Food,Office Worker,The courier called me twice and handled the address problem well. Delivery was better than last time.,Delivery,26
+COM-099,2026-06-08,Google Review,Whitby,Breakfast,Family,"The drink holder was weak, so the coffee spilled before it reached my office.",Packaging,33
+COM-100,2026-03-03,Instagram,London,Pizza,First-Time User,"Ordering through the app was simple, and Apple Pay worked without any problem.",App_Experience,40
+COM-101,2026-03-06,TikTok,Markham,Pasta,Weekly User,"My sushi box looked professional, and the cold items were separated from hot food.",Packaging,47
+COM-102,2026-03-09,X/Twitter,Oshawa,Salad,Student,"The delivery was fast today! My lunch arrived before 12:30 PM, and the driver was polite.",Delivery,54
+COM-103,2026-03-12,Facebook,Markham,Salad,Office Worker,"The map in the app was wrong, and it kept showing the driver in Toronto while I live in Markham.",App_Experience,61
+COM-104,2026-03-15,Google Review,London,Indian Food,Family,The courier called me twice and handled the address problem well. Delivery was better than last time.,Delivery,68
+COM-105,2026-03-18,Instagram,London,Breakfast,First-Time User,"The drink holder was weak, so the coffee spilled before it reached my office.",Packaging,75
+COM-106,2026-03-21,TikTok,London,Pizza,Weekly User,"Ordering through the app was simple, and Apple Pay worked without any problem.",App_Experience,82
+COM-107,2026-03-24,X/Twitter,Oshawa,Burger,Student,FreshBite showed one price at checkout and another price on the receipt.,Pricing,89
+COM-108,2026-03-27,Facebook,Waterloo,Burger,Office Worker,"Packaging was clean, sealed, and easy to recycle. Great job by FreshBite and the restaurant.",Packaging,96
+COM-109,2026-03-30,Google Review,Oshawa,Burger,Family,FreshBite showed one price at checkout and another price on the receipt.,Pricing,8
+COM-110,2026-04-02,Instagram,Toronto,Salad,First-Time User,"The map in the app was wrong, and it kept showing the driver in Toronto while I live in Toronto.",App_Experience,15
+COM-111,2026-04-05,TikTok,London,Pasta,Weekly User,The service fee and delivery fee made my Pasta order too expensive in London. #FreshBite,Pricing,22
+COM-112,2026-04-08,X/Twitter,Whitby,Salad,Student,Amazing flavor from Green Bowl Kitchen in Whitby. The meal felt healthy and high quality.,Food_Quality,29
+COM-113,2026-04-11,Facebook,Vaughan,Salad,Office Worker,"THE DELIVERY WAS FAST TODAY! MY LUNCH ARRIVED BEFORE 12:30 PM, AND THE DRIVER WAS POLITE.",Delivery,36
+COM-114,2026-04-14,Google Review,Oshawa,Salad,Family,Support kept sending copied messages and did not read my complaint about the missing Salad.,Customer_Service,43
+COM-115,2026-04-17,Instagram,Vaughan,Sushi,First-Time User,"The soup leaked inside the bag, and the napkins were wet when it arrived in Vaughan.",Packaging,50
+COM-116,2026-04-20,TikTok,Toronto,Pasta,Weekly User,"My sushi box looked professional, and the cold items were separated from hot food.",Packaging,57
+COM-117,2026-04-23,X/Twitter,Vaughan,Sushi,Student,"The soup leaked inside the bag, and the napkins were wet when it arrived in Vaughan.",Packaging,64
+COM-118,2026-04-26,Facebook,Toronto,Coffee,Office Worker,The Coffee tasted fresh and warm. FreshBite should keep this restaurant on the app!,Food_Quality,71
+COM-119,2026-04-29,Google Review,Vaughan,Burger,Family,FreshBite showed one price at checkout and another price on the receipt.,Pricing,78
+COM-120,2026-05-02,Instagram,Ajax,Coffee,First-Time User,"My order status said delivered, but the food was not at my door in Ajax.",Delivery,85
